@@ -1,0 +1,12 @@
+.gradle/
+build/
+
+*.class
+*.log
+
+.DS_Store
+.idea/
+*.iml
+out/
+
+docker-compose.override.yml
