@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/book_search
+    username: book_user
+    password: book_password
+  elasticsearch:
+    uris: http://elasticsearch:9200
